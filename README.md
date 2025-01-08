@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://i.ibb.co.com/j9KRsV4/salar-Banner.jpg"  />
+  <img height="500" src="https://i.ibb.co.com/j9KRsV4/salar-Banner.jpg"  />
 </div>
 
 ###
