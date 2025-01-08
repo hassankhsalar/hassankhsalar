@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Hassan KH Salar. I am a  CSE Graduate from American International University</p>
+<p align="left">My name is Hassan KH Salar. I am a  CSE Graduate from American International University Bangladesh</p>
 
 ###
 
