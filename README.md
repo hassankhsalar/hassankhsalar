@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Front End Developer (REACT)<br>📚 MERN Stack Developer<br>🎯 Current Goals: Explore Nextjs Redux Docker</p>
+<p align="left">✨ Front End Developer (React)<br>📚 MERN Stack Developer<br>🎯 Current Goals: Explore NextJs Redux Docker</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Socials</h2>
 
 ###
 
@@ -60,11 +60,14 @@
   <a href="https://www.facebook.com/protyasha.alixy.5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://wa.me/+8801726798847" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
