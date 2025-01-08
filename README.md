@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Front End Developer<br>📚 MERN Stack Developer<br>🎯 Current Goals: Explore Nextjs Redux Docker</p>
+<p align="left">✨ Front End Developer (REACT)<br>📚 MERN Stack Developer<br>🎯 Current Goals: Explore Nextjs Redux Docker</p>
 
 ###
 
