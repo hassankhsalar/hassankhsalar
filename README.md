@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/qMGPmBqM/Black-White-Grayscale-Mono-Moody-Forrest-Vlog-Vlogger-Youtube-Channel-Art-Banner.jpg"  />
+  <img height="500" src="https://i.ibb.co.com/6JfRzJMm/Cover-Mini.jpg"  />
 </div>
 
 ###
